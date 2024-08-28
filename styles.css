@@ -1,4 +1,17 @@
-body{
-    color:white;
+body {
+    color: white;
     background: black;
+    margin: 0px;
 }
+
+header {
+    border-bottom: solid 2px rgb(228, 42, 85);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 42, 70);
+}
+section{
+    background: rgb(0 0 0);
+}
+    
+    
